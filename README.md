@@ -6,4 +6,4 @@ pkg install git python -y
 git clone https://github.com/TAYYAB-Exploits/InstaBF_Tool  
 cd InstaBF_Tool  
 pip install -r requirements.txt  
-python insta_bf.py
+python insta_bf.py 
