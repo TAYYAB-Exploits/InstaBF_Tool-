@@ -3,9 +3,9 @@ Ye tool sirf educational purposes ke liye banayi gayi hai. Kisi bhi illegal acti
 
 Run👇commands in your terminal/Termux 
 
-pkg update -y && pkg upgrade -y  
+pkg update -y && pkg upgrade  
 
-pkg install git python -y  
+pkg install git python   
 
 git clone https://github.com/TAYYAB-Exploits/InstaBF_Tool-  
 
