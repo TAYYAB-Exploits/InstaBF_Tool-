@@ -7,7 +7,7 @@ pkg update -y && pkg upgrade -y
 
 pkg install git python -y  
 
-git clone https://github.com/TAYYAB-Exploits/InstaBF_Tool  
+git clone https://github.com/TAYYAB-Exploits/InstaBF_Tool-  
 
 cd InstaBF_Tool  
 
